@@ -1,12 +1,12 @@
-/*******************************************************************************
+/******************************************************************************
+* 
+* Go Demo: implementation of a simple (local) load balancer using channels
 *
-* implementation of a simple (local) load balancer
 *
-* completed implementation of demo presented here:
+* this is the implementation of demo presented in the following video:
+*   http://blog.golang.org/go-programming-session-video-from
 *
-* http://blog.golang.org/go-programming-session-video-from
-*
-*******************************************************************************/
+******************************************************************************/
 
 package main
 
